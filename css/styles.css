@@ -73,4 +73,15 @@ body{
     line-height: 165%;
     color: #71747B;
  }
+
+ .button-link{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+    color: #1B54FE;
+    background-color: #FFFFFF;
+    cursor: pointer;
+    border: none;
+    padding: 0px;
+ }
  
